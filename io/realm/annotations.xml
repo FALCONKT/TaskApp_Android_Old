@@ -1,0 +1,5 @@
+<root>
+    <item name='io.realm.Realm java.util.List&lt;E&gt; copyFromRealm(java.lang.Iterable&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>
